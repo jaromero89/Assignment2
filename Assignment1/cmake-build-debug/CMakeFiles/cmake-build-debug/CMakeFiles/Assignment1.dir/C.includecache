@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jlloyd/CLionProjects/CPSC_OS/Assignment1/filecat.c
+fcntl.h
+-
+stdio.h
+-
+errno.h
+-
+unistd.h
+-
+
