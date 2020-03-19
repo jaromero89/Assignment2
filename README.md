@@ -26,8 +26,13 @@ upkeeping Operating Systems.
 Terminal compilation code -
  
  C -
+ 
  gcc <filename>.c
+ 
   ./filename 
+  
  C++ -
+ 
  g++ <filename>.cpp
+ 
  ./a.out
