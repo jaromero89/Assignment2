@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jlloyd/CLionProjects/CPSC_OS/Assignment2/sshell.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+string.h
+-
+stdlib.h
+-
+
